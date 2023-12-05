@@ -2,9 +2,7 @@
 
 在 react 项目中使用 ofa.js
 
-<video  controls>
-    <source src="./screenshot/video-demo.mp4" type="video/mp4">
-</video>
+https://github.com/ofajs/ofa.js-in-react/raw/main/screenshot/video-demo.mp4
 
 ## 主要步骤
 
