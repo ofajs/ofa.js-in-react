@@ -2,7 +2,7 @@
 
 在 react 项目中使用 ofa.js
 
-https://github.com/ofajs/ofa.js-in-react/raw/main/screenshot/video-demo.mp4
+https://github.com/ofajs/ofa.js-in-react/assets/22849231/2e131b23-c06a-441e-8a77-6572194a23dd
 
 ## 主要步骤
 
